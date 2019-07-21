@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "JavaScript Module Loader"
+title:      "「转」JavaScript Module Loader"
 subtitle:   "CommonJS，RequireJS，SeaJS 归纳笔记"
 date:       2015-05-25
 author:     "Hux"
