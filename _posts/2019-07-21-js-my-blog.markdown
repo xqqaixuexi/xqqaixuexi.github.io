@@ -4,7 +4,7 @@ title:      "「转」利用 GitHub Pages 快速搭建个人博客"
 subtitle:   "搭建Qi Blog"
 date:       2019-07-21
 author:     "Qi"
-header-img: "img/post-bg-js-my-blog.png"
+header-img: "img/home-bg.png"
 catalog: true
 tags:
     - 转
