@@ -1,4 +1,4 @@
-> Yet another man.
+> Self-discipline gives me freedom.
 
 Hi,Hey,I am Zhang Mengqi, a little rookie, Web Front-End Engineer, working hard towards the whole stack of engineers..
 

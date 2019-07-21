@@ -71,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
@@ -103,16 +103,15 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
-    },{
+    },
+    {
         title: "阮一峰的博客",
         href: "http://www.ruanyifeng.com/blog/"
+    },
+    {
+        title: "乱序",
+        href: "http://mida.re/"
     }
 ]
