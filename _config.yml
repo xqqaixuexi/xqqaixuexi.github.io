@@ -103,15 +103,15 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "Stack Overflow",
+        href: "https://stackoverflow.com/"
     },
     {
         title: "阮一峰的博客",
         href: "http://www.ruanyifeng.com/blog/"
     },
     {
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "牛客网",
+        href: "https://www.nowcoder.com"
     }
 ]
