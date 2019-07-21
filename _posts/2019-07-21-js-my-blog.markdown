@@ -7,7 +7,7 @@ author:     "Qi"
 header-img: "img/home-bg.png"
 catalog: true
 tags:
-    - 转
+    - 转载
     - 笔记
     - 搭建博客
 ---
