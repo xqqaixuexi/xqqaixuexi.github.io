@@ -1,12 +1,12 @@
 > 写代码，吃美食 ，逛山河 
-> 自律给我自由
 
 Hey，我是张梦琦，一枚小菜鸟，前端工程师，向着全栈工程师努力中...
 
 
 多出没于👉 戳[Github](http://github.com/xqqaixuexi)。
 
-
+ 
+其他介绍完善中...
 <!-- ##### My Programming Languages Spectrum
 
 |     | 💔️           | ❤️ ️                                          | ❤️❤️ ️                                          | ❤️❤️❤️ ️                                      |
